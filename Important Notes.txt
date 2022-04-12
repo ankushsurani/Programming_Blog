@@ -1,0 +1,8 @@
+for set up database :-
+
+go to (ProgramData\MySQL\MySQL Server 8.0\Data) in this project --> programming_blog,ibdata1  --> copy this two files and paste at (C:\ProgramData\MySQL\MySQL Server 8.0\Data)
+                                                                                          this hidden location in your computer
+
+                                         (((((or)))))
+
+go to the sqlyogcommunity  -->  create database  -->right click and import  --> Execute SQL Script  -->  then execute this programming_blog_database file 
